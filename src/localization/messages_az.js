@@ -1,6 +1,6 @@
 /*
  * Translated default messages for the jQuery validation plugin.
- * Locale: Az (Azeri; azərbaycan dili)
+ * Locale: Az (Azerbaijani language; azərbaycan dili)
  */
 $.extend( $.validator.messages, {
 	required: "Bu xana mütləq doldurulmalıdır.",
